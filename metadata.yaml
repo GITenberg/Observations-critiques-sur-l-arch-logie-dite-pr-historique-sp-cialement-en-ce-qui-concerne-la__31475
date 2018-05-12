@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '35262'
     url: http://www.gutenberg.org/2009/agents/35262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31475#Observations-critiques-sur-l-arch-logie-dite-pr-historique-sp-cialement-en-ce-qui-concerne-la_
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2010-03-02'
 gutenberg_type: Text
